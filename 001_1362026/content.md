@@ -1,0 +1,2 @@
+When dealing with millions of log entries, performance isn't just a feature—it's a requirement. I initially prototyped my anomaly detection framework in Python, but quickly ran into bottleneck issues with the GIL during concurrent parsing. Refactoring the core Distinguishability-based Structural Log Parsing engine into Go reduced our ingestion time by over 400%. Go's native goroutines made handling concurrent file streams trivial, proving that choosing the right tool for the system architecture is half the battle.
+![golang.webp]
