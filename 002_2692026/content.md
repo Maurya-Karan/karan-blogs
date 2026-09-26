@@ -1,4 +1,5 @@
 The exploration began with a straightforward premise: **is all energy essentially just excited electrons?** While electrons govern electricity and chemistry, this question served as the gateway into a much deeper unraveling of how the physical universe operates.
+---
 
 ## **Energy as a State, Not a Substance**
 
@@ -9,6 +10,7 @@ The critical realization here requires a shift in how we define energy. **Energy
 This logic prompted a historical inquiry: Did Einstein start with fusion to discover this theory, and since energy can't be destroyed, where does heat go when a coffee cup cools down?
 
 Einstein actually deduced this via a thought experiment about a moving body emitting light. He realized that for physical laws to remain consistent, the emitting body must lose mass. As for the cooling coffee, the energy is never lost; it simply spreads out into the environment, becoming less concentrated—a process known as entropy.
+---
 
 ## **The Quantum Structure of Mass**
 
@@ -19,6 +21,7 @@ This brings us to the structure of the atom. We tend to think of mass as solid s
 The other 99% does not come from quarks simply "zooming around." The proton's mass arises predominantly from the energy associated with Quantum Chromodynamics (QCD).
 
 This includes the energy of the gluon fields (the force carriers of the strong interaction), the complex dynamics between quarks and gluons, the mechanics of color confinement, and the baseline energy of the QCD vacuum itself. Mass, at this level, is deeply tied to the binding energy of the system.
+---
 
 ## **The Quantum Ocean (An Analogy)**
 
@@ -27,6 +30,7 @@ To visualize how everything connects, we can imagine the universe as a vast "Qua
 In this analogy, matter is not a solid object dropped into the ocean; matter is a *localized excitation* of these fields. You can imagine that excitation as a whirlpool in the ocean.
 
 Every electron in the universe is simply an excitation in the universal electron field.
+---
 
 ## **The Pauli Exclusion Principle and the Illusion of Touch**
 
@@ -35,6 +39,7 @@ Applying this to the macro world, a practical thought experiment was introduced:
 But the physics of why your finger doesn't pass through the keyboard is strictly quantum mechanical. When your finger presses against the key, electromagnetic interactions between the atoms become strongly repulsive at short distances. However, ordinary matter's resistance to compression relies heavily on the **Pauli exclusion principle**.
 
 This quantum-mechanical law prevents fermions (like electrons) from collapsing into the same quantum states. It is this principle, combined with electromagnetic repulsion, that provides the physical resistance we interpret as "touch."
+---
 
 ## **The Macro Shift: Gravity and General Relativity**
 
